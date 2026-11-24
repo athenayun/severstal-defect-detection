@@ -1,0 +1,18 @@
+# Python
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+._*
+
+# Credentials
+.env
+kaggle.json
+access_token
+
+# Data and model artifacts
+data/
+models/
+checkpoints/
+*.pt
+*.pth
